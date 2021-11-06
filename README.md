@@ -1,5 +1,4 @@
 # Демонстрация работы
 
 На видео представлена работа рамки Slow Dance. Вертикальные полосы видны только на камере.  
-
-![Колосок](https://user-images.githubusercontent.com/62373862/140611953-d4d468f5-c6a0-4665-9480-08c48975f8fb.jpg)
+![Бабочка](https://user-images.githubusercontent.com/62373862/140612001-2dab6427-2d66-414c-950f-a22de2470122.jpg)
